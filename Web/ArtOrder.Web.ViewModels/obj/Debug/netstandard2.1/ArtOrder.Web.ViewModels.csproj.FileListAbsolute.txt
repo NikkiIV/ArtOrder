@@ -1,0 +1,17 @@
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Web.ViewModels.deps.json
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Web.ViewModels.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Web.ViewModels.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Data.Common.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Data.Models.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Services.Mapping.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Data.Models.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Services.Mapping.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\bin\Debug\netstandard2.1\ArtOrder.Data.Common.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.csproj.AssemblyReference.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.AssemblyInfoInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.AssemblyInfo.cs
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.csproj.CoreCompileInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.csproj.CopyComplete
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.ViewModels\obj\Debug\netstandard2.1\ArtOrder.Web.ViewModels.pdb

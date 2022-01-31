@@ -1,0 +1,13 @@
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\bin\Debug\netstandard2.1\ArtOrder.Data.Models.deps.json
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\bin\Debug\netstandard2.1\ArtOrder.Data.Models.dll
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\bin\Debug\netstandard2.1\ArtOrder.Data.Models.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\bin\Debug\netstandard2.1\ArtOrder.Data.Common.dll
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\bin\Debug\netstandard2.1\ArtOrder.Data.Common.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.csproj.AssemblyReference.cache
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.AssemblyInfoInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.AssemblyInfo.cs
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.csproj.CoreCompileInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.csproj.CopyComplete
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.dll
+K:\SOFTuni\_Web Project\ArtOrder\Data\ArtOrder.Data.Models\obj\Debug\netstandard2.1\ArtOrder.Data.Models.pdb

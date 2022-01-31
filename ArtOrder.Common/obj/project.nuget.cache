@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfhlHPFpDEJqYqRAVWyRLERnp3U5ktQL9pvNbYX4UcSN4z90dZ7mj2bddkNL2V7RyZdop5JfoXO2Jlfkn9RdOw==",
+  "success": true,
+  "projectFilePath": "K:\\SOFTuni\\_Web Project\\ArtOrder\\ArtOrder.Common\\ArtOrder.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikki\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Nikki\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

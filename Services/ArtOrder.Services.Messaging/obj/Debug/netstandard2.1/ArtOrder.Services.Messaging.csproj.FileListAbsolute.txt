@@ -1,0 +1,10 @@
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\bin\Debug\netstandard2.1\ArtOrder.Services.Messaging.deps.json
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\bin\Debug\netstandard2.1\ArtOrder.Services.Messaging.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\bin\Debug\netstandard2.1\ArtOrder.Services.Messaging.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.csproj.AssemblyReference.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.AssemblyInfoInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.AssemblyInfo.cs
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.csproj.CoreCompileInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Messaging\obj\Debug\netstandard2.1\ArtOrder.Services.Messaging.pdb

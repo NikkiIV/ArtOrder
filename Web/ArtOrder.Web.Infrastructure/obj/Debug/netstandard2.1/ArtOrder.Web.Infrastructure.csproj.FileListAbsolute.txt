@@ -1,0 +1,10 @@
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\bin\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.deps.json
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\bin\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\bin\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.csproj.AssemblyReference.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.AssemblyInfoInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.AssemblyInfo.cs
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.csproj.CoreCompileInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.dll
+K:\SOFTuni\_Web Project\ArtOrder\Web\ArtOrder.Web.Infrastructure\obj\Debug\netstandard2.1\ArtOrder.Web.Infrastructure.pdb

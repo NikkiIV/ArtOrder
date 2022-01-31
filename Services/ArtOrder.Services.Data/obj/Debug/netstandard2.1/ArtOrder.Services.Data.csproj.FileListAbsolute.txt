@@ -1,0 +1,17 @@
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Services.Data.deps.json
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Services.Data.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Services.Data.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Data.Common.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Data.Models.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Services.Mapping.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Data.Common.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Data.Models.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\bin\Debug\netstandard2.1\ArtOrder.Services.Mapping.pdb
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.csproj.AssemblyReference.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.AssemblyInfoInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.AssemblyInfo.cs
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.csproj.CoreCompileInputs.cache
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.csproj.CopyComplete
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.dll
+K:\SOFTuni\_Web Project\ArtOrder\Services\ArtOrder.Services.Data\obj\Debug\netstandard2.1\ArtOrder.Services.Data.pdb
